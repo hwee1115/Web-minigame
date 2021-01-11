@@ -1,0 +1,25 @@
+{
+    "items":[
+        {
+            "type":"tshirt",
+            "gender":"Female",
+            "size":"Large",
+            "color":"pink",
+            "image":"imgs/imgs/pink_t.png"
+        },
+        {
+            "type":"pants",
+            "gender":"Male",
+            "size":"small",
+            "color":"blue",
+            "image":"imgs/imgs/blue_p.png"
+        },
+        {
+            "type":"pants",
+            "gender":"Male",
+            "size":"Large",
+            "color":"yellow",
+            "image":"imgs/imgs/yellow_t.png"
+        }
+    ]
+}
