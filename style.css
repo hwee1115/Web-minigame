@@ -89,11 +89,16 @@ body{
     display:flex;
     align-items: center;
     padding:var(--base-space);
+    margin-bottom: var(--base-space);
 }
 
 .item__thumbnail{
     width:var(--size-thumbnail);
     height:var(--size-thumbnail);
+}
+
+.item.invisible{
+    display:none;
 }
 
 .item__description{
